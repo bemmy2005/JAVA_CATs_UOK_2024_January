@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+F:\Users\bemmy\eclipse-workspace\JAVA_CATs_UOK_2024_January\.metadata\.plugins\org.eclipse.jdt.core
+2981592764.index
+2889342288.index
+3546834148.index
+418324628.index
+1865797976.index
